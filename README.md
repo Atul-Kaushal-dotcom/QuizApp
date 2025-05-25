@@ -1,6 +1,6 @@
 # QuizApp\
 # Clone the repository
-git clone https://github.com/yourusername/quizapp.git
+git clone  https://github.com/Atul-Kaushal-dotcom/QuizApp.git
 
 # Navigate into the directory
 cd quizapp
