@@ -46,6 +46,24 @@ QuizApp is a simple and interactive desktop-based quiz application that allows u
     View your score at the end.
 
     High scores are saved automatically to the database.
+
+    QuizApp/
+    
+├── .idea/                 # IntelliJ IDEA project files (ignored by .gitignore)
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── quizapp/       # Your main Java package
+│   │   │           ├── model/           # Contains data models (e.g., Question.java)
+│   │   │           ├── view/            # Contains GUI panels and main frame (e.g., QuizFrame.java, QuizPanel.java, AdminPanel.java, ResultPanel.java)
+│   │   │           ├── util/            # Contains utility classes (e.g., DatabaseManager.java)
+│   │   │           └── QuizApp.java     # Main application entry point
+│   │   └── resources/     
+├── lib/                   # MySQL JDBC Driver JAR file here (e.g., mysql-connector-j-x.x.x.jar)
+├── .gitignore             
+└── README.md              # Project documentation, setup, usage, and features
+
 # Clone the repository
 git clone  https://github.com/Atul-Kaushal-dotcom/QuizApp.git
 
