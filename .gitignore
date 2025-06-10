@@ -1,1 +1,49 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
 
+# Compiled output
+/out/
+/target/
+*.class
+
+# Log files
+*.log
+
+# Mac specific files
+.DS_Store
+
+# Java-specific ignore list
+# Compiled class files
+*.class
+
+# Jar files (if you produce them)
+*.jar
+*.war
+*.ear
+
+# Maven build artifacts
+/target/
+
+# Gradle build artifacts
+.gradle/
+/build/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+.localized
+Thumbs.db
+
+# Test output
+/test-output/
+
+# User-specific settings (if any, typically not committed)
+# For example, if you had a configuration file with sensitive info
+# config.properties
