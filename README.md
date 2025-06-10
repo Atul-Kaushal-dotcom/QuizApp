@@ -33,7 +33,10 @@ QuizApp is a simple and interactive desktop-based quiz application that allows u
     MySQL database integration
 
 
-🎮 Usage
+🎮 Usage![SCREENSHOTS (1)](https://github.com/user-attachments/assets/7c62c5b6-875c-400b-a497-7d75e203f405)
+![SCREENSHOTS (3)](https://github.com/user-attachments/assets/c6e40e1e-3973-4671-b1f8-43c6217562b4)
+![SCREENSHOTS (2)](https://github.com/user-attachments/assets/5cb6c32b-7a6e-4cc1-b2be-147d1c39e7cd)
+
 
     Launch the application using Main.java.
 
